@@ -3,3 +3,5 @@ Meu nome é Asafe Miranda, tenho 16 anos, sou um estudante apaixonado por tecnol
 
 # 🚀 Objetivo
 Pretendo me especializar e cursar em **Análise e Desenvolvimento de Sistemas (ADS)**.
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/752995589918162995)](https://discord.com/users/752995589918162995)
